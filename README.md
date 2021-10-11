@@ -1,5 +1,5 @@
 # Tesseract-OCR-and-Automated-Files-Processing
-Extract text in images and Automatically files processing to save key in time
+Extract text in images(Purchase Order) and Automatically files processing to save key in time
 
 Files used : 
 1. PDF2IMG.py : Convert pdf files into images (.jpeg or .png format)
